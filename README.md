@@ -4,6 +4,7 @@
 - これの mysql → https://github.com/solareenlo/mysql-nextjs-test
 
 ## References
+- [vercel/next.js/examples/with-mysql/](https://github.com/vercel/next.js/tree/canary/examples/with-mysql)
 - [Create a Next.js App with a MySQL Database That Builds and Deploys with Vercel](https://vercel.com/guides/deploying-next-and-mysql-with-vercel)
 
 ↓Original README
