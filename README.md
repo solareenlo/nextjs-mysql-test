@@ -1,3 +1,13 @@
+# nextjs-mysql-test
+- nextjs を mysql に繋げてみた．
+- これはフロントエンド側．
+- これの mysql → https://github.com/solareenlo/mysql-nextjs-test
+
+## References
+- [Create a Next.js App with a MySQL Database That Builds and Deploys with Vercel](https://vercel.com/guides/deploying-next-and-mysql-with-vercel)
+
+↓Original README
+---
 # MySQL Example
 
 This is an example of using [MySQL](https://www.mysql.com/) in a Next.js project.
